@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-23T10:34:34.428791+00:00",
+    "built_at": "2026-05-24T10:34:23.506805+00:00",
     "total_jobs": 191,
-    "enriched": 72
+    "enriched": 94
   },
   "jobs": {
     "ai-infrastructure-en-capstone-invest-28696169": {
@@ -72,6 +72,27 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "front-office-softwar-capstone-invest-28696169": {
+      "summary": "Designs, builds, and maintains the firm's global pricing platform while creating state-of-the-art software for risk management and empowering investment decision-making across strategies.",
+      "key_skills": [
+        "java",
+        "pricing",
+        "risk_management",
+        "platform_development",
+        "investment_strategies",
+        "quant_research",
+        "portfolio_management"
+      ],
+      "core_skills": [
+        "problem_solving",
+        "collaboration",
+        "innovation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "middle-office-capstone-invest-28696169": {
       "summary": "Middle Office Analyst supports trade capture and lifecycle management across derivatives, credit, fixed income, and FX markets while ensuring accurate risk monitoring and position management.",
       "key_skills": [
@@ -94,6 +115,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "middle-office--vp-capstone-invest-28696169": {
+      "summary": "Middle Office Vice President provides end-to-end trade support for Fixed Income desks, managing trade lifecycles, risk monitoring, and stakeholder collaboration to ensure accurate execution and robust operational controls.",
+      "key_skills": [
+        "fixed_income",
+        "trade_support",
+        "risk_monitoring",
+        "system_integration",
+        "trade_lifecycle",
+        "counterparty_management",
+        "operational_controls",
+        "automation"
+      ],
+      "core_skills": [
+        "risk_management",
+        "system_integration",
+        "trade_lifecycle",
+        "counterparty_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "production-support-capstone-invest-28696169": {
       "summary": "Owns the reliability and day-to-day operation of Capstone's in-house trading platform, ensuring system performance for portfolio managers, quant researchers, traders, and operations teams while contributing to AI-assisted operations and infrastructure automation.",
@@ -118,6 +162,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "manager--accounting-relay-graduate--28696169": {
+      "summary": "Manages accounts receivable, revenue recognition, and cash operations for a nonprofit education organization, ensuring accurate financial reporting and compliance with GAAP.",
+      "key_skills": [
+        "accounting",
+        "revenue recognition",
+        "accounts receivable",
+        "cash management",
+        "financial reporting",
+        "gaap",
+        "erp",
+        "financial analysis"
+      ],
+      "core_skills": [
+        "accounting",
+        "revenue recognition",
+        "accounts receivable",
+        "cash management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "clinical-research-as-care-access-28696169": {
       "summary": "Clinical Research Assistant, PRN (Registered Nurse) delivers life-changing research opportunities to participants with flexible scheduling, handling phlebotomy, specimen handling, documentation, and ensuring regulatory compliance for mobile clinical research events.",
       "key_skills": [
@@ -140,6 +207,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "clinical-research-co-care-access-28696169": {
+      "summary": "Clinical Research Coordinator III manages complex clinical research protocols, ensures regulatory compliance, and coordinates patient recruitment and monitoring across high-intensity study sites.",
+      "key_skills": [
+        "clinical research",
+        "gcp",
+        "protocol compliance",
+        "patient recruitment",
+        "data management",
+        "adverse events monitoring",
+        "sponsor interaction",
+        "regulatory compliance"
+      ],
+      "core_skills": [
+        "protocol compliance",
+        "patient recruitment",
+        "data management",
+        "sponsor interaction"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "clinical-trial-manag-care-access-28696169": {
       "summary": "The Clinical Trial Manager drives the successful execution of clinical trials or projects from strategic planning through closeout, ensuring adherence to timelines, budgets, regulatory requirements, and quality standards while coordinating cross-functional teams and sponsors.",
@@ -292,6 +382,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "lifecycle-marketing--care-access-28696169": {
+      "summary": "The Lifecycle Marketing Specialist supports the development and execution of patient engagement and retention strategies through health screenings and studies, optimizing the patient journey to improve engagement rates and build automation.",
+      "key_skills": [
+        "lifecycle marketing",
+        "patient engagement",
+        "marketing automation",
+        "segmentation",
+        "retention",
+        "patient journey mapping",
+        "a/b testing",
+        "email marketing"
+      ],
+      "core_skills": [
+        "marketing automation",
+        "segmentation",
+        "patient engagement",
+        "retention"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "manager--quality-ass-care-access-28696169": {
       "summary": "Manages quality assurance activities including internal and external audits, quality issue resolution, and regulatory compliance to ensure patient safety and data integrity.",
       "key_skills": [
@@ -381,6 +494,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-business-deve-care-access-28696169": {
+      "summary": "Senior Business Development Director drives growth for Care Access by managing key account relationships, developing strategic sales plans, and delivering value propositions to pharmaceutical, biotech, and medical device trial sponsors.",
+      "key_skills": [
+        "sales",
+        "business development",
+        "strategic planning",
+        "account management",
+        "consultative selling",
+        "pipeline development",
+        "stakeholder management",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "sales cycle management",
+        "clinical trial experience",
+        "saaS solutions",
+        "revenue targeting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-data-engineer-care-access-28696169": {
       "summary": "Senior Data Engineer designs, develops, and maintains robust data pipelines for reliable ingestion, transformation, and delivery of complex data across systems.",
       "key_skills": [
@@ -403,6 +539,26 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "senior-enterprise-pe-care-access-28696169": {
+      "summary": "Senior Enterprise Performance Analyst synthesizes insights from across the organization to empower leaders with visibility for optimizing site operations and high-level decision-making through dashboards, analytics, and cross-functional collaboration.",
+      "key_skills": [
+        "sql",
+        "power bi",
+        "data analysis",
+        "excel",
+        "enterprise performance"
+      ],
+      "core_skills": [
+        "data analysis",
+        "sql",
+        "power bi",
+        "excel"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "senior-media-special-care-access-28696169": {
       "summary": "Senior Media Specialist owns campaign activation and optimization for health screenings and clinical studies through traditional and localized media channels, while collaborating with cross-functional teams to improve campaign performance and reach.",
@@ -516,6 +672,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "study-start-up-manag-care-access-28696169": {
+      "summary": "Manages clinical research operations and site management for global clinical trials.",
+      "key_skills": [
+        "clinical research",
+        "data analytics",
+        "software engineering",
+        "enterprise performance analytics",
+        "regulatory operations",
+        "site management",
+        "clinical delivery",
+        "clinical operations"
+      ],
+      "core_skills": [
+        "clinical research",
+        "data analytics",
+        "software engineering",
+        "enterprise performance analytics"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "trainer--clinical-ed-care-access-28696169": {
       "summary": "Trainer, Clinical Education delivers standardized onboarding and upskilling for clinical research staff across global sites, ensuring compliance and role-specific training aligned with Care Access processes and regulatory requirements.",
@@ -747,6 +926,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "head-of-data---analy-vanta-72916561": {
+      "summary": "Head of Data & Analytics delivers business insights by leading analysts and data engineering teams to build and scale AI-powered data infrastructure for Vanta’s business.",
+      "key_skills": [
+        "data engineering",
+        "data analytics",
+        "ai",
+        "snowflake",
+        "dbt",
+        "data governance",
+        "data modeling",
+        "data infrastructure"
+      ],
+      "core_skills": [
+        "data engineering",
+        "data analytics",
+        "ai",
+        "snowflake"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "lifecycle-marketing--vanta-72916561": {
       "summary": "Owns lifecycle strategy and execution across email, in-product, and other channels to drive onboarding, activation, retention, and expansion while mapping end-to-end customer journeys and designing data-driven programs.",
       "key_skills": [
@@ -855,6 +1057,75 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-manager--reve-vanta-72916561": {
+      "summary": "Senior Manager leads 7 GTM recruiters to drive hiring across Pre and Post sales teams in North America while partnering with leadership to prioritize talent acquisition and meet quarterly goals.",
+      "key_skills": [
+        "recruiting",
+        "talent",
+        "hiring",
+        "gathering",
+        "data",
+        "metrics",
+        "stakeholder"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic_planning",
+        "problem_solving",
+        "metrics_driven"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--secu-vanta-72916561": {
+      "summary": "Senior Manager of Security leads security engineering team to implement robust security protocols, assess risks, and ensure secure product development through AI-driven security practices.",
+      "key_skills": [
+        "security engineering",
+        "application security",
+        "ai security",
+        "sast",
+        "dast",
+        "owasp top 10",
+        "nist 800-53",
+        "gdpr",
+        "iso 27001"
+      ],
+      "core_skills": [
+        "leadership",
+        "risk assessment",
+        "compliance",
+        "security operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager--stra-vanta-72916561": {
+      "summary": "Owns marketing strategy and growth for AWS and strategic VAR partners, building executive relationships and driving revenue through joint business plans and campaigns.",
+      "key_skills": [
+        "aws",
+        "partner_marketing",
+        "strategic_partnerships",
+        "revenue_growth",
+        "joint_go_to_market",
+        "pipeline_acceleration",
+        "account_based_marketing",
+        "executive_relationships"
+      ],
+      "core_skills": [
+        "strategic_planning",
+        "cross_functional_stakeholder_management",
+        "revenue_optimization",
+        "executive_influence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-marketing-ana-vanta-72916561": {
       "summary": "Senior Marketing Analyst builds scalable reporting capabilities for marketing teams, transforms complex marketing data into actionable insights, and enables data-driven decision-making to improve marketing ROI.",
       "key_skills": [
@@ -870,6 +1141,28 @@
         "analytical_mindset",
         "action_oriented",
         "communication_skills"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-desig-vanta-72916561": {
+      "summary": "Senior Product Designer at Vanta drives user-centric projects in a rapidly scaling company trusted by hundreds of organizations to protect their most critical data, working closely with Engineering and Product Managers to create intuitive interfaces for complex workflows.",
+      "key_skills": [
+        "product design",
+        "ui",
+        "ux",
+        "system thinking",
+        "accessibility",
+        "figma",
+        "ai"
+      ],
+      "core_skills": [
+        "system thinking",
+        "accessibility",
+        "figma",
+        "ui/ux"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -939,6 +1232,25 @@
         "cloud infrastructure",
         "security infrastructure",
         "technical leadership"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "solutions-engineer---vanta-72916561": {
+      "summary": "Solutions Engineer leads technical discussions with customers to ensure seamless adoption of Vanta's security solutions, develops deep product understanding, and drives technical evaluations for pre-sales engagements.",
+      "key_skills": [
+        "solutions engineering",
+        "cloud platforms",
+        "scripting languages",
+        "project management",
+        "cybersecurity"
+      ],
+      "core_skills": [
+        "technical discussion",
+        "customer relationship",
+        "product capabilities"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -1051,6 +1363,28 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "detection-and-respon-benchling-72916562": {
+      "summary": "Detects and responds to security threats using AI and automation, building scalable incident response processes and threat detection mechanisms for biotech R&D platforms.",
+      "key_skills": [
+        "ai",
+        "security",
+        "threat_intelligence",
+        "incident_response",
+        "forensics",
+        "automation",
+        "cloud"
+      ],
+      "core_skills": [
+        "threat_intelligence",
+        "incident_response",
+        "forensics",
+        "automation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "software-engineer--p-benchling-72916562": {
       "summary": "Builds and implements tooling for efficient development, testing, and packaging to enable rapid code releases within 10 minutes while improving developer experience and engineering workflows.",
@@ -1327,6 +1661,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "prescriber-clinical--headway-72916562": {
+      "summary": "Clinical Quality Manager supports clinical quality monitoring initiatives and Ongoing Professional Practice Evaluation for providers, conducting chart reviews, providing feedback, creating remediation plans, and collaborating with cross-functional teams to optimize workflows.",
+      "key_skills": [
+        "clinical quality monitoring",
+        "chart review",
+        "evidence-based practices",
+        "documentation standards",
+        "quality improvement",
+        "clinical oversight",
+        "remediation planning",
+        "provider network management"
+      ],
+      "core_skills": [
+        "clinical documentation",
+        "quality assurance",
+        "healthcare compliance",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "program-manager--tal-headway-72916562": {
       "summary": "Builds and manages AI adoption programs to enhance talent acquisition workflows and enable hiring teams to effectively use AI tools in their recruitment processes.",
       "key_skills": [
@@ -1344,6 +1701,29 @@
         "talent acquisition",
         "ai enablement",
         "process optimization"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "recruiting-coordinat-headway-72916562": {
+      "summary": "Schedules and coordinates end-to-end interviews for candidates, ensuring smooth logistics and positive candidate experiences across high-volume hiring operations.",
+      "key_skills": [
+        "scheduling",
+        "coordination",
+        "recruiting",
+        "talent",
+        "operations",
+        "candidate_experience",
+        "logistics",
+        "data_hygiene"
+      ],
+      "core_skills": [
+        "scheduling",
+        "coordination",
+        "candidate_experience",
+        "data_hygiene"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -1396,6 +1776,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "senior-counsel--regu-headway-72916562": {
+      "summary": "Serves as a strategic regulatory partner to Clinical and Operations teams, providing real-time guidance on healthcare regulations and translating complex legal requirements into actionable practices for product development and compliance.",
+      "key_skills": [
+        "healthcare",
+        "regulatory",
+        "legal",
+        "compliance",
+        "telehealth",
+        "behavioral_health",
+        "clinical_practice",
+        "cpom"
+      ],
+      "core_skills": [
+        "healthcare_regulations",
+        "legal_advisory",
+        "regulatory_compliance",
+        "cross_functional_partnership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "senior-operations-as-headway-72916562": {
       "summary": "Senior Operations Associate responsible for operationalizing and scaling core workflows to deliver real-world impact to patients and providers through data-driven automation and cross-functional collaboration.",
       "key_skills": [
@@ -1418,6 +1821,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-partner-succe-headway-72916562": {
+      "summary": "Supports care partners and clinicians by building relationships, creating engagement strategies, and leveraging data to grow partnerships in mental healthcare.",
+      "key_skills": [
+        "healthcare",
+        "customer_success",
+        "strategic_partnerships",
+        "relationship_building",
+        "data_analysis",
+        "health_systems",
+        "clinical_operations",
+        "mental_health"
+      ],
+      "core_skills": [
+        "healthcare",
+        "customer_success",
+        "strategic_partnerships",
+        "relationship_building"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "strategic-finance-le-headway-72916562": {
       "summary": "Builds and maintains financial models to assess GTM investment efficiency, tracks performance, and surfaces insights for strategic resource allocation across Provider and Patient Growth initiatives.",
@@ -1535,6 +1961,52 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "staff-product-market-headway-45903358": {
+      "summary": "Owns translating Headway's clinical and network data into evidence-backed narratives to position the company as a critical partner for payers in driving quality mental health outcomes.",
+      "key_skills": [
+        "product_marketing",
+        "narrative_building",
+        "competitive_intelligence",
+        "clinical_data_analysis",
+        "evidence_based_stories",
+        "payer_marketing",
+        "data_translation",
+        "storytelling"
+      ],
+      "core_skills": [
+        "product_marketing",
+        "competitive_intelligence",
+        "clinical_data_analysis",
+        "storytelling"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "channel-manager-vanta-32305413": {
+      "summary": "Manages channel partnerships to drive revenue growth and partner deployment for the downmarket segment through co-selling and relationship building with partners.",
+      "key_skills": [
+        "channel management",
+        "partner deployment",
+        "sales pipeline",
+        "co-selling",
+        "partner enablement",
+        "relationship building",
+        "pipeline rigor",
+        "partner acquisition"
+      ],
+      "core_skills": [
+        "channel partner experience",
+        "co-selling",
+        "cross-functional collaboration",
+        "proactive self-starter"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "head-of-solutions-en-vanta-32305413": {
       "summary": "Owns and scales Vanta's regional Solutions Engineering organization across North America, driving technical win rates, accelerating deals, and shaping the company's go-to-market strategy.",
       "key_skills": [
@@ -1626,6 +2098,29 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "associate-principal--headway-32305413": {
+      "summary": "Supports growing care partners by managing executive steering committees, building relationships with health systems and medical clinics, leveraging data for insights, and collaborating with cross-functional teams to ensure partner satisfaction and growth.",
+      "key_skills": [
+        "healthcare",
+        "partner_management",
+        "customer_success",
+        "strategic_partnerships",
+        "data_analysis",
+        "relationship_building",
+        "operational_excellence",
+        "ambiguity_management"
+      ],
+      "core_skills": [
+        "healthcare",
+        "partner_management",
+        "customer_success",
+        "strategic_partnerships"
+      ],
+      "seniority_signal": "associate_principal",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
