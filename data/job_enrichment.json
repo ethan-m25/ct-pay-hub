@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-26T10:30:27.696454+00:00",
-    "total_jobs": 191,
-    "enriched": 129
+    "built_at": "2026-05-27T10:31:08.324389+00:00",
+    "total_jobs": 215,
+    "enriched": 143
   },
   "jobs": {
     "ai-engineer-capstone-invest-28696169": {
@@ -2915,6 +2915,325 @@
       ],
       "seniority_signal": "associate_principal",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "outside-sales-repres-gonetspeed-50474723": {
+      "summary": "Outside Sales Representative who meets customers face to face through door-to-door outreach to sell fiber internet, home phone, and streaming TV services while achieving monthly sales goals.",
+      "key_skills": [
+        "sales",
+        "communication",
+        "customer_service",
+        "outdoor_sales",
+        "independent_work",
+        "telecom_sales",
+        "fiber_internet",
+        "commission"
+      ],
+      "core_skills": [
+        "communication",
+        "independent_work",
+        "customer_service",
+        "sales"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "market-operations-an-voltus-50474723": {
+      "summary": "Market Operations Analyst identifies, develops, and implements tools and processes to support flawless execution of day-to-day responsibilities, protects revenue by identifying and correcting process errors, and manages availability and market offers across capacity, operating reserves, and economic products.",
+      "key_skills": [
+        "market operations",
+        "project management",
+        "quantitative skills",
+        "python",
+        "energy markets",
+        "data collection",
+        "enrollment",
+        "availability management"
+      ],
+      "core_skills": [
+        "project management",
+        "quantitative skills",
+        "python"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "sales-associate--rem-voltus-50474723": {
+      "summary": "Sales Associate drives sales by cold calling prospects, setting meetings with Sales Directors, and closing deals to maximize cash flow for customers and sustainable energy solutions.",
+      "key_skills": [
+        "sales",
+        "cold_calling",
+        "prospecting",
+        "energy_markets",
+        "client_relationships",
+        "sales_objectives",
+        "sales_techniques",
+        "sales_management"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "client_relationships",
+        "sales_objectives"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "sales-director-pjm-voltus-50474723": {
+      "summary": "Sales Director builds and grows commercial and industrial customer base in PJM territory through self-generated prospecting and consultative selling to translate grid economics into operational and financial value for hospitals, universities, manufacturers, and municipalities.",
+      "key_skills": [
+        "sales",
+        "prospecting",
+        "outbound",
+        "cold_calling",
+        "pipeline",
+        "consultative_selling",
+        "demand_response",
+        "energy_markets"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "outbound",
+        "cold_calling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-data-infrastr-voltus-50474723": {
+      "summary": "Owns and maintains data pipeline architectures, data modeling environments, and orchestration systems to ensure reliable, scalable data infrastructure that supports business analytics and AI-ready applications.",
+      "key_skills": [
+        "data engineering",
+        "data pipelines",
+        "data modeling",
+        "orchestration",
+        "observability",
+        "data governance",
+        "data quality",
+        "cloud data platforms"
+      ],
+      "core_skills": [
+        "python",
+        "dbt",
+        "etl",
+        "cloud platforms"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "federal-senior-saviy-saviynt-50474723": {
+      "summary": "The Senior Saviynt Product Architect designs and implements secure identity governance solutions, leads technical architecture for Saviynt IGA platforms, and ensures compliance with enterprise security standards through integration with cloud systems and identity lifecycle management.",
+      "key_skills": [
+        "identity governance",
+        "access management",
+        "saviynt",
+        "api",
+        "cloud integration",
+        "workflow design",
+        "compliance",
+        "sox"
+      ],
+      "core_skills": [
+        "saviynt",
+        "api",
+        "cloud integration",
+        "workflow design"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--accounting--saviynt-50474723": {
+      "summary": "Manages and optimizes NetSuite environment while driving automation of financial processes to ensure scalability and compliance in a fast-growing SaaS organization.",
+      "key_skills": [
+        "netSuite",
+        "accounting",
+        "finance",
+        "saaS",
+        "revenue recognition",
+        "automation",
+        "data governance",
+        "integration"
+      ],
+      "core_skills": [
+        "netSuite",
+        "accounting",
+        "finance",
+        "saaS"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "named-account-execut-saviynt-50474723": {
+      "summary": "Drives sales for IaaS Cloud Security, Access Governance & Privileged Access Management solutions to large enterprise customers in Southern California through prospecting, demos, RFPs, and closing deals.",
+      "key_skills": [
+        "cloud security",
+        "access governance",
+        "privileged access management",
+        "identity management",
+        "sales development",
+        "prospecting",
+        "enterprise sales",
+        "cloud"
+      ],
+      "core_skills": [
+        "sales development",
+        "prospecting",
+        "enterprise sales",
+        "cloud security"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "pam-technical-archit-saviynt-50474723": {
+      "summary": "Technical architect leads post-sales Privileged Access Management engagements, including discovery, solution design, implementation, and documentation for secure access management across hybrid and multi-cloud environments.",
+      "key_skills": [
+        "technical architect",
+        "pam",
+        "identity access management",
+        "cloud security",
+        "privileged access management",
+        "implementation engineer",
+        "solution design",
+        "data gathering"
+      ],
+      "core_skills": [
+        "pam",
+        "identity access management",
+        "cloud security",
+        "solution design"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "principal-software-e-saviynt-50474723": {
+      "summary": "Designs and implements secure enterprise identity cloud solutions using cloud platforms and microservices while mentoring engineering teams.",
+      "key_skills": [
+        "cloud",
+        "security",
+        "compliance",
+        "identity",
+        "api",
+        "microservices",
+        "event-driven",
+        "java"
+      ],
+      "core_skills": [
+        "java",
+        "spring",
+        "react",
+        "kubernetes"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior--principal-fe-saviynt-50474723": {
+      "summary": "The Senior Federal Security Engineer designs and maintains detection rules across security stacks and cloud environments to identify and mitigate organizational risk, specializing in FedRAMP compliance and threat management.",
+      "key_skills": [
+        "ai",
+        "identity",
+        "security",
+        "compliance",
+        "fedramp",
+        "vulnerability",
+        "triage",
+        "threat_detection"
+      ],
+      "core_skills": [
+        "fedramp",
+        "vulnerability_management",
+        "threat_hunting",
+        "incident_response"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-principal-sof-saviynt-50474723": {
+      "summary": "Designs, implements, tests, and releases end-to-end workflows for AI security products while building foundational solutions across multiple agent platforms like AWS Bedrock and Google AgentSpace.",
+      "key_skills": [
+        "java",
+        "spring",
+        "rest",
+        "microservices",
+        "ai",
+        "agents",
+        "cloud",
+        "aws"
+      ],
+      "core_skills": [
+        "java",
+        "spring",
+        "rest",
+        "microservices"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "sr--principal--techn-saviynt-50474723": {
+      "summary": "Manages technical projects and cross-functional teams to secure digital assets through AI-powered identity solutions",
+      "key_skills": [
+        "ai",
+        "identity",
+        "security",
+        "compliance",
+        "cloud",
+        "firewall"
+      ],
+      "core_skills": [
+        "technical_program_management",
+        "agile_software_development",
+        "project_management",
+        "release_scheduling"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-ai-researcher-aledade-50474723": {
+      "summary": "Staff AI Researcher develops advanced AI solutions to improve health outcomes by empowering primary care physicians with technology that prevents unnecessary hospitalizations, collaborating with engineering and analytics teams to integrate AI into products and workflows.",
+      "key_skills": [
+        "ai",
+        "machine_learning",
+        "deep_learning",
+        "large_language_models",
+        "python",
+        "data_analysis",
+        "statistical_analysis",
+        "distributed_systems"
+      ],
+      "core_skills": [
+        "deep_learning",
+        "large_language_models",
+        "python",
+        "data_analysis"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     }
