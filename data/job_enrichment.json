@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-01T11:39:24.514970+00:00",
-    "total_jobs": 599,
-    "enriched": 499
+    "built_at": "2026-06-03T11:55:21.354803+00:00",
+    "total_jobs": 632,
+    "enriched": 521
   },
   "jobs": {
     "ai-engineer-capstone-invest-28696169": {
@@ -10928,7 +10928,53 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
-    "data-scientist-asana-12881288": {
+    "vp--trader----281-capstoneinvestm-84662213": {
+      "summary": "Develops quantitative techniques to inform financial decisions using algorithms, backtesting, and statistical models for fixed income products and derivatives.",
+      "key_skills": [
+        "quantitative analysis",
+        "algorithm development",
+        "backtesting",
+        "statistical modeling",
+        "machine learning",
+        "portfolio optimization",
+        "fixed income",
+        "swaps"
+      ],
+      "core_skills": [
+        "algorithm development",
+        "backtesting",
+        "statistical modeling",
+        "machine learning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "cx-enablement-partne-asana-84662213": {
+      "summary": "CX Enablement Partner (AI) leads high-impact cross-functional initiatives to empower Customer Experience teams in leveraging AI and emerging technologies for world-class customer value.",
+      "key_skills": [
+        "ai",
+        "cx",
+        "enablement",
+        "partner",
+        "strategic",
+        "action-oriented",
+        "cross-functional",
+        "initiatives"
+      ],
+      "core_skills": [
+        "strategic",
+        "action-oriented",
+        "cross-functional",
+        "initiatives"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "data-scientist-asana-84662213": {
       "summary": "The Data Scientist designs and builds scalable data solutions to enhance Asana's marketing effectiveness through technical expertise in modeling, data pipelines, and AI.",
       "key_skills": [
         "data science",
@@ -10951,7 +10997,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "digital-designer-asana-12881288": {
+    "digital-designer-asana-84662213": {
       "summary": "Senior Digital Designer leverages Asana's digital ecosystem to shape global brand experiences across digital channels while collaborating with web development, growth, and brand teams to ensure cohesive, high-caliber user experiences.",
       "key_skills": [
         "digital design",
@@ -10974,7 +11020,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "finance-operations---asana-12881288": {
+    "finance-operations---asana-84662213": {
       "summary": "Finance Operations & COE Manager leads finance workstreams for New Product Introductions, ensuring billing engine and accounting policies support new SKUs and pricing models while optimizing deal lifecycles and bridging finance-technical gaps.",
       "key_skills": [
         "finance",
@@ -10997,7 +11043,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "head-of-billing-and--asana-12881288": {
+    "head-of-billing-and--asana-84662213": {
       "summary": "Leads end-to-end operations of Order Management, Finance Customer Support, Billing, and Provisioning teams to ensure high performance and accuracy while driving cross-functional engagement and process optimization.",
       "key_skills": [
         "billing",
@@ -11020,7 +11066,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "senior-marketing-ope-asana-12881288": {
+    "senior-marketing-ope-asana-84662213": {
       "summary": "Owns systems, data flows, and operational foundations connecting product engagement to audience activation, lifecycle enablement, lead management, and business insight for Asana's growth funnel.",
       "key_skills": [
         "marketing operations",
@@ -11043,7 +11089,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "software-engineer--c-asana-12881288": {
+    "software-engineer--c-asana-84662213": {
       "summary": "The CI/CD Engineer designs, builds, and operates high-performance pipelines to ensure seamless automated testing and deployments for Asana's large-scale applications, enhancing developer efficiency and stability.",
       "key_skills": [
         "ci/cd",
@@ -11066,7 +11112,7 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "staff-engineer---ci--asana-12881288": {
+    "staff-engineer---ci--asana-84662213": {
       "summary": "The Staff Engineer - CI/CD designs, develops, and operates high-performance CI/CD pipelines to enhance developer efficiency and ensure reliable software releases across Asana's large-scale applications.",
       "key_skills": [
         "ci/cd",
@@ -11083,6 +11129,473 @@
         "ci/cd",
         "devops",
         "automated testing"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "business-recruiter---ashby-84662214": {
+      "summary": "GTM Recruiters own end-to-end development and execution of recruitment strategies to find exceptional talent for G&A, Professional Services, Customer Success, and Sales roles in B2B SaaS companies.",
+      "key_skills": [
+        "recruiting",
+        "g2m",
+        "talent",
+        "sourcing",
+        "data-driven",
+        "hiring",
+        "gtm"
+      ],
+      "core_skills": [
+        "data-driven",
+        "hiring",
+        "sourcing"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "design-engineer--ame-ashby-84662214": {
+      "summary": "Engineers at Ashby design and build software solutions for talent acquisition teams, improving productivity through intelligent tools and design systems while collaborating with customers to solve real-world problems.",
+      "key_skills": [
+        "react",
+        "design_system",
+        "component_system",
+        "autocompletes",
+        "information_hierarchy",
+        "scannability",
+        "talent_acquisition",
+        "software_engineering"
+      ],
+      "core_skills": [
+        "react",
+        "design_system"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "engineering-manager--ashby-84662214": {
+      "summary": "Engineering Manager responsible for building and scaling a team of 3-5 engineers across multiple specializations, providing feedback on product specs, coaching engineers to take ownership of projects, and leading department-wide initiatives to improve engineering practices.",
+      "key_skills": [
+        "engineering",
+        "product",
+        "leadership",
+        "team_building",
+        "technical",
+        "problem_solving",
+        "scalability",
+        "agile"
+      ],
+      "core_skills": [
+        "leadership",
+        "technical",
+        "problem_solving",
+        "scalability"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "enterprise-account-e-ashby-84662214": {
+      "summary": "Helps win enterprise accounts by managing full sales cycle from pipeline generation to closing deals, focusing on new logo acquisition through inbound and outbound strategies while also handling expansion and upsell for existing customers.",
+      "key_skills": [
+        "sales",
+        "enterprise",
+        "saaS",
+        "quoting",
+        "pipeline",
+        "growth",
+        "complex",
+        "consensus"
+      ],
+      "core_skills": [
+        "sales",
+        "enterprise",
+        "saaS"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [
+        "lone wolf",
+        "relationship builder",
+        "dislike prospecting",
+        "prefer demos to experts"
+      ],
+      "work_mode_derived": "hybrid"
+    },
+    "enterprise-solutions-ashby-84662214": {
+      "summary": "Enterprise Solutions Architect designs and closes successful professional services opportunities by partnering with sales teams to scope implementation approaches for complex enterprise deals, ensuring seamless handoffs and improved customer outcomes.",
+      "key_skills": [
+        "enterprise solutions architecture",
+        "solutions consulting",
+        "professional services",
+        "solutions engineering",
+        "implementation strategy",
+        "statement of work creation",
+        "cross-functional collaboration",
+        "enterprise sales"
+      ],
+      "core_skills": [
+        "solutions consulting",
+        "professional services",
+        "solutions engineering",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "gtm-engineering-and--ashby-84662214": {
+      "summary": "Directs GTM Systems & Tools team to scale revenue tech stack with AI-driven automation for Marketing, Sales, and Customer Success.",
+      "key_skills": [
+        "gai",
+        "ai",
+        "revenue",
+        "engineering",
+        "systems",
+        "data",
+        "automation",
+        "gtm"
+      ],
+      "core_skills": [
+        "ai",
+        "revenue",
+        "engineering",
+        "systems"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "high-touch-implement-ashby-84662214": {
+      "summary": "Manages end-to-end implementation of Ashby’s solution for mid-market and smaller enterprise customers, ensuring positive customer experiences and expedited time to value through direct customer engagement and technical execution.",
+      "key_skills": [
+        "implementation",
+        "project_management",
+        "customer_success",
+        "technical_proficiency",
+        "change_management",
+        "critical_thinking",
+        "cross_functional_collaboration",
+        "data_driven"
+      ],
+      "core_skills": [
+        "implementation",
+        "project_management",
+        "customer_success",
+        "change_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [
+        "prefers managing shorter implementations of less than 30 days",
+        "manages only a few simultaneous implementations at a time",
+        "relies on other resources for technical expertise",
+        "prefers defining ideas without execution responsibility"
+      ],
+      "work_mode_derived": "hybrid"
+    },
+    "mid-market-customer--ashby-84662214": {
+      "summary": "Partners with customers to drive adoption, deliver strategic guidance, conduct product trainings, and identify opportunities for expanded use cases and long-term value realization",
+      "key_skills": [
+        "customer success",
+        "b2b saas",
+        "product expertise",
+        "strategic guidance",
+        "adoption",
+        "retention",
+        "growth",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "customer success",
+        "b2b saas",
+        "product expertise",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [
+        "you thrive with a smaller book of customers",
+        "you're interested in managing customer accounts with well-defined touchpoints",
+        "you shine as an exclusively commercial csm",
+        "you're afraid of rolling up your sleeves"
+      ],
+      "work_mode_derived": "hybrid"
+    },
+    "product-support-spec-ashby-84662214": {
+      "summary": "Product Support Specialist works closely with customers daily to troubleshoot complex SaaS issues, guide through workflows, and improve team processes through automation and enablement projects.",
+      "key_skills": [
+        "saaS",
+        "troubleshooting",
+        "technical",
+        "integration",
+        "workflow",
+        "automation",
+        "customer",
+        "support"
+      ],
+      "core_skills": [
+        "troubleshooting",
+        "technical",
+        "customer",
+        "support"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "sales-leader--enterp-ashby-84662214": {
+      "summary": "Owns revenue outcomes for North American enterprise segment, scales AE teams, and drives complex multi-product platform sales with competitive rip-and-replace motions.",
+      "key_skills": [
+        "enterprise_sales",
+        "sales_leadership",
+        "solutions_selling",
+        "multi_product_platform",
+        "competitive_rip_and_replace",
+        "enterprise_account_executives",
+        "talent_talent_management",
+        "saaS_enterprise"
+      ],
+      "core_skills": [
+        "sales_execution",
+        "customer_relationships",
+        "product_expertise",
+        "deal_management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-product-desig-ashby-84662214": {
+      "summary": "Designs software interfaces for SaaS products while owning end-to-end product decisions and collaborating with engineering teams to build scalable design systems.",
+      "key_skills": [
+        "product design",
+        "ux",
+        "user research",
+        "ia",
+        "layout",
+        "navigation"
+      ],
+      "core_skills": [
+        "first principles",
+        "problem solving",
+        "usability"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-product-engin-ashby-84662214": {
+      "summary": "Product engineer who designs and builds end-to-end features while owning reusable building blocks across the stack",
+      "key_skills": [
+        "product_engineering",
+        "feature_development",
+        "end_to_end_delivery",
+        "reusable_building_blocks",
+        "competitive_analysis",
+        "wireframing",
+        "sql_optimization",
+        "automated_scheduling"
+      ],
+      "core_skills": [
+        "product_specification",
+        "end_to_end_ownership",
+        "cross_functional_collaboration",
+        "technical_implementation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-it-engineer-ashby-84662214": {
+      "summary": "Owns and fixes customer issues from ingest to resolution, implements best practices for IT, and automates device, identity, and user lifecycle processes to ensure world-class support and scalable infrastructure.",
+      "key_skills": [
+        "api",
+        "automation",
+        "device_management",
+        "identity_management",
+        "event_driven_architecture",
+        "typescript",
+        "user_lifecycle",
+        "kandji"
+      ],
+      "core_skills": [
+        "api",
+        "automation",
+        "device_management",
+        "identity_management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-product-design-ashby-84662214": {
+      "summary": "Designs software products, creates design systems, and manages product strategy while collaborating with engineering and product teams to solve complex challenges.",
+      "key_skills": [
+        "product design",
+        "design system",
+        "product management",
+        "design consulting",
+        "software design",
+        "user experience",
+        "ux design",
+        "user interface"
+      ],
+      "core_skills": [
+        "product design",
+        "design system",
+        "product management",
+        "design consulting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-product-engine-ashby-84662214": {
+      "summary": "Product engineer who designs and builds end-to-end features while owning reusable building blocks across the stack and advocating for time to innovate",
+      "key_skills": [
+        "product_engineering",
+        "feature_development",
+        "end_to_end_delivery",
+        "reusable_building_blocks",
+        "competitive_analysis",
+        "wireframing",
+        "prototyping",
+        "user_research"
+      ],
+      "core_skills": [
+        "product_specification",
+        "end_to_end_ownership",
+        "cross_functional_collaboration",
+        "user_centric_design"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "startup-account-exec-ashby-84662214": {
+      "summary": "Account Executive in North America (West) scales Ashby's fast-growing Startup segment by winning new business with growth companies up to 100 employees through inbound and outbound pipeline development.",
+      "key_skills": [
+        "sales",
+        "outbound",
+        "pipeline",
+        "crm",
+        "saaS",
+        "product",
+        "analytics",
+        "ai"
+      ],
+      "core_skills": [
+        "sales",
+        "outbound",
+        "pipeline",
+        "crm"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "strategic-implementa-ashby-84662214": {
+      "summary": "Manages and executes end-to-end implementation of B2B SaaS solutions for new customers in enterprise segments, ensuring positive customer experiences and expedited time to value.",
+      "key_skills": [
+        "implementation",
+        "project_management",
+        "customer_success",
+        "technical_proficiency",
+        "change_management",
+        "best_practices",
+        "critical_thinking",
+        "cross_functional_collaboration"
+      ],
+      "core_skills": [
+        "project_management",
+        "customer_success",
+        "technical_proficiency",
+        "change_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategy---operation-ashby-84662214": {
+      "summary": "Drives strategy, processes, and data-driven insights to optimize customer health, retention, and revenue growth for the Customer Success team.",
+      "key_skills": [
+        "css",
+        "data-driven",
+        "processes",
+        "strategic",
+        "revenue",
+        "customer",
+        "health",
+        "retention"
+      ],
+      "core_skills": [
+        "data",
+        "analysis",
+        "process",
+        "strategic"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "support-engineering--ashby-84662214": {
+      "summary": "Manages a team of Support Engineers to resolve complex technical issues, collaborate with Engineering and Product teams, and build scalable processes for customer support.",
+      "key_skills": [
+        "support engineering",
+        "technical problem solving",
+        "log analysis",
+        "database querying",
+        "systems architecture",
+        "integration troubleshooting",
+        "customer insights",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "technical depth",
+        "complex problem solving",
+        "process design",
+        "hands-on technical work"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "support-workforce-ma-ashby-84662214": {
+      "summary": "Designs and owns workforce management systems for a global Support organization to ensure SLA compliance while enabling flexibility and strategic initiatives.",
+      "key_skills": [
+        "forecasting",
+        "capacity planning",
+        "workforce management",
+        "scheduling",
+        "coverage strategy",
+        "data analysis",
+        "strategic enablement",
+        "systems design"
+      ],
+      "core_skills": [
+        "forecasting",
+        "capacity planning",
+        "scheduling",
+        "data analysis"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
