@@ -49,7 +49,7 @@ git commit -m "data: CT daily update $TODAY (+$NEW_TODAY new, $ACTIVE_COUNT acti
 git remote get-url origin && git push origin main || true
 
 export PATH="/Users/clawii/.npm-global/bin:$PATH"
-wrangler pages deploy . --project-name ct-payhub --branch main 2>&1 | tail -3 || true
+bash "$HOME/shared-scripts/deploy_web.sh" ct ct-payhub || true
 
 
 PORTAL_DIR="$HOME/payhub-portal"
