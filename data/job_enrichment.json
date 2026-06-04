@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-03T11:55:21.354803+00:00",
-    "total_jobs": 632,
-    "enriched": 521
+    "built_at": "2026-06-04T10:23:06.015752+00:00",
+    "total_jobs": 643,
+    "enriched": 522
   },
   "jobs": {
     "ai-engineer-capstone-invest-28696169": {
@@ -7586,6 +7586,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-risk-manageme-grafanalabs-67924519": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-solutions-eng-grafanalabs-67924519": {
       "summary": "Enterprise Solutions Engineers partner with sales teams to educate customers on Grafana's value proposition, deliver technical presentations, and close high-velocity opportunities through advanced competitive knowledge and technical credibility.",
       "key_skills": [
@@ -10974,167 +10997,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "data-scientist-asana-84662213": {
-      "summary": "The Data Scientist designs and builds scalable data solutions to enhance Asana's marketing effectiveness through technical expertise in modeling, data pipelines, and AI.",
-      "key_skills": [
-        "data science",
-        "machine learning",
-        "modeling",
-        "statistical analysis",
-        "data engineering",
-        "data pipelines",
-        "ai",
-        "ml ops"
-      ],
-      "core_skills": [
-        "technical leadership",
-        "hands-on mentorship",
-        "modeling quality",
-        "code rigor"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "digital-designer-asana-84662213": {
-      "summary": "Senior Digital Designer leverages Asana's digital ecosystem to shape global brand experiences across digital channels while collaborating with web development, growth, and brand teams to ensure cohesive, high-caliber user experiences.",
-      "key_skills": [
-        "digital design",
-        "systems thinking",
-        "branding",
-        "user experience",
-        "web design",
-        "conversion optimization",
-        "visual design",
-        "typography"
-      ],
-      "core_skills": [
-        "systems thinking",
-        "branding",
-        "user experience",
-        "web design"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "finance-operations---asana-84662213": {
-      "summary": "Finance Operations & COE Manager leads finance workstreams for New Product Introductions, ensuring billing engine and accounting policies support new SKUs and pricing models while optimizing deal lifecycles and bridging finance-technical gaps.",
-      "key_skills": [
-        "finance",
-        "operations",
-        "coe",
-        "manager",
-        "revenue",
-        "accounting",
-        "q2c",
-        "asc606"
-      ],
-      "core_skills": [
-        "finance",
-        "operations",
-        "revenue",
-        "accounting"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "head-of-billing-and--asana-84662213": {
-      "summary": "Leads end-to-end operations of Order Management, Finance Customer Support, Billing, and Provisioning teams to ensure high performance and accuracy while driving cross-functional engagement and process optimization.",
-      "key_skills": [
-        "billing",
-        "order_management",
-        "finance",
-        "customer_support",
-        "provisioning",
-        "process_optimization",
-        "data_analysis",
-        "cross_functional"
-      ],
-      "core_skills": [
-        "process_optimization",
-        "data_analysis",
-        "cross_functional",
-        "project_management"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-marketing-ope-asana-84662213": {
-      "summary": "Owns systems, data flows, and operational foundations connecting product engagement to audience activation, lifecycle enablement, lead management, and business insight for Asana's growth funnel.",
-      "key_skills": [
-        "marketing operations",
-        "growth ops",
-        "product-led growth",
-        "data flows",
-        "systems infrastructure",
-        "pql workflows",
-        "audience segmentation",
-        "lifecycle marketing"
-      ],
-      "core_skills": [
-        "systems infrastructure",
-        "pql workflows",
-        "audience segmentation",
-        "lifecycle marketing"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "software-engineer--c-asana-84662213": {
-      "summary": "The CI/CD Engineer designs, builds, and operates high-performance pipelines to ensure seamless automated testing and deployments for Asana's large-scale applications, enhancing developer efficiency and stability.",
-      "key_skills": [
-        "ci/cd",
-        "continuous integration",
-        "continuous deployment",
-        "ai tooling",
-        "automated testing",
-        "deployment pipelines",
-        "developer efficiency",
-        "infrastructure engineering"
-      ],
-      "core_skills": [
-        "ci/cd engineering",
-        "ai tooling integration",
-        "pipeline architecture",
-        "system reliability"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "staff-engineer---ci--asana-84662213": {
-      "summary": "The Staff Engineer - CI/CD designs, develops, and operates high-performance CI/CD pipelines to enhance developer efficiency and ensure reliable software releases across Asana's large-scale applications.",
-      "key_skills": [
-        "ci/cd",
-        "distributed systems",
-        "devops",
-        "automated testing",
-        "zero-downtime deployments",
-        "pipeline architecture",
-        "ai tooling integration",
-        "continuous integration"
-      ],
-      "core_skills": [
-        "distributed systems",
-        "ci/cd",
-        "devops",
-        "automated testing"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "business-recruiter---ashby-84662214": {
       "summary": "GTM Recruiters own end-to-end development and execution of recruitment strategies to find exceptional talent for G&A, Professional Services, Customer Success, and Sales roles in B2B SaaS companies.",
       "key_skills": [
@@ -11596,6 +11458,168 @@
         "capacity planning",
         "scheduling",
         "data analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "software-engineer-robinhood-68022646": {
+      "summary": "Software Engineer responsible for designing, developing, and executing test plans, test cases, and test strategies for mobile and web applications, ensuring high-quality user experiences through manual and automated testing.",
+      "key_skills": [
+        "mobile application testing",
+        "web application testing",
+        "manual and automated testing",
+        "appium",
+        "selenium",
+        "playwright",
+        "api testing",
+        "python",
+        "java"
+      ],
+      "core_skills": [
+        "mobile application testing",
+        "web application testing",
+        "manual and automated testing",
+        "api testing"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "data-scientist-asana-68022646": {
+      "summary": "Architects and leads technical execution for marketing data science projects including media mix modeling, user lifetime value, causal inferences, multi-touch attribution, and spend optimization engines.",
+      "key_skills": [
+        "data science",
+        "machine learning",
+        "statistical modeling",
+        "data engineering",
+        "python",
+        "sql",
+        "machine learning",
+        "data analysis"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "modeling quality",
+        "code rigor",
+        "data pipeline architecture"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "digital-designer-asana-68022646": {
+      "summary": "Senior Digital Designer leverages Asana's digital ecosystem to shape brand experiences across digital channels, partnering with web development and growth teams to drive user engagement and conversions.",
+      "key_skills": [
+        "systems-thinking",
+        "digital design",
+        "branding",
+        "user experience",
+        "conversion optimization",
+        "visual design",
+        "web development",
+        "agile"
+      ],
+      "core_skills": [
+        "systems-thinking",
+        "digital design",
+        "branding",
+        "user experience"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "finance-operations---asana-68022646": {
+      "summary": "Finance Operations & COE Manager leads finance workstreams for New Product Introductions, ensuring billing engine and accounting policies support new SKUs and pricing models while optimizing deal lifecycles and bridging finance-technical gaps.",
+      "key_skills": [
+        "finance",
+        "operations",
+        "coe",
+        "manager",
+        "revenue",
+        "accounting",
+        "q2c",
+        "g2m"
+      ],
+      "core_skills": [
+        "finance",
+        "operations",
+        "coe",
+        "manager"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "head-of-billing-and--asana-68022646": {
+      "summary": "Leads and oversees end-to-end operations of Order Management, Finance Customer Support, Billing, and Provisioning teams to ensure high performance and accuracy.",
+      "key_skills": [
+        "billing",
+        "order_management",
+        "finance",
+        "customer_support",
+        "provisioning",
+        "processes",
+        "systems",
+        "data"
+      ],
+      "core_skills": [
+        "leadership",
+        "project_management",
+        "cross_functional_engagement",
+        "data_driven_decision_making"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-marketing-ope-asana-68022646": {
+      "summary": "Owns systems, data flows, and operational foundations connecting product engagement to audience activation, lifecycle enablement, lead management, and business insight for Asana's growth funnel.",
+      "key_skills": [
+        "marketing",
+        "operations",
+        "growth",
+        "product",
+        "data",
+        "analytics",
+        "revenue",
+        "lead"
+      ],
+      "core_skills": [
+        "systems",
+        "data_flows",
+        "operational_foundation",
+        "product_engagement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-cloudflare-on-cloudflare-68022646": {
+      "summary": "Serves as a segment lead for CloudflareOne (CF1) sales, advising sales leaders on opportunities, partnering with technical teams, and driving product adoption for SASE, SSE, and AI security solutions.",
+      "key_skills": [
+        "sase",
+        "sse",
+        "ai security",
+        "ztna",
+        "swg",
+        "casb",
+        "dlp",
+        "sd-wan"
+      ],
+      "core_skills": [
+        "consultative selling",
+        "technical expertise",
+        "sales strategy",
+        "pipeline generation"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
