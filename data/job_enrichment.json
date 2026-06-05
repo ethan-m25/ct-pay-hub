@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T10:23:06.015752+00:00",
-    "total_jobs": 643,
-    "enriched": 522
+    "built_at": "2026-06-05T10:19:21.535137+00:00",
+    "total_jobs": 649,
+    "enriched": 527
   },
   "jobs": {
     "ai-engineer-capstone-invest-28696169": {
@@ -7655,6 +7655,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "strategic-cloud-part-grafanalabs-67924519": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "account-executive--m-mixpanel-67924519": {
       "summary": "Account Executive helps tech companies understand Mixpanel's product analytics capabilities through consultative sales approaches, managing the full sales cycle from prospecting to closing deals while collaborating with cross-functional teams.",
       "key_skills": [
@@ -10218,6 +10241,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "staff-applied-scient-oneapp-67924520": {
+      "summary": "Designs and deploys machine learning and deep learning models to improve customer experience and business growth through personalization and recommendation systems.",
+      "key_skills": [
+        "machine learning",
+        "deep learning",
+        "llm",
+        "recommendation systems",
+        "search systems",
+        "productionizing models",
+        "ai",
+        "data science"
+      ],
+      "core_skills": [
+        "machine learning",
+        "deep learning",
+        "llm",
+        "recommendation systems"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "strategy-lead-oneapp-67924520": {
       "summary": "Strategy Lead at OnePay focuses on defining strategic direction, translating industry trends into product priorities, and building frameworks for decision-making in fast-paced fintech environment.",
       "key_skills": [
@@ -11488,75 +11534,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "data-scientist-asana-68022646": {
-      "summary": "Architects and leads technical execution for marketing data science projects including media mix modeling, user lifetime value, causal inferences, multi-touch attribution, and spend optimization engines.",
-      "key_skills": [
-        "data science",
-        "machine learning",
-        "statistical modeling",
-        "data engineering",
-        "python",
-        "sql",
-        "machine learning",
-        "data analysis"
-      ],
-      "core_skills": [
-        "technical leadership",
-        "modeling quality",
-        "code rigor",
-        "data pipeline architecture"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "digital-designer-asana-68022646": {
-      "summary": "Senior Digital Designer leverages Asana's digital ecosystem to shape brand experiences across digital channels, partnering with web development and growth teams to drive user engagement and conversions.",
-      "key_skills": [
-        "systems-thinking",
-        "digital design",
-        "branding",
-        "user experience",
-        "conversion optimization",
-        "visual design",
-        "web development",
-        "agile"
-      ],
-      "core_skills": [
-        "systems-thinking",
-        "digital design",
-        "branding",
-        "user experience"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "finance-operations---asana-68022646": {
-      "summary": "Finance Operations & COE Manager leads finance workstreams for New Product Introductions, ensuring billing engine and accounting policies support new SKUs and pricing models while optimizing deal lifecycles and bridging finance-technical gaps.",
-      "key_skills": [
-        "finance",
-        "operations",
-        "coe",
-        "manager",
-        "revenue",
-        "accounting",
-        "q2c",
-        "g2m"
-      ],
-      "core_skills": [
-        "finance",
-        "operations",
-        "coe",
-        "manager"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "head-of-billing-and--asana-68022646": {
       "summary": "Leads and oversees end-to-end operations of Order Management, Finance Customer Support, Billing, and Provisioning teams to ensure high performance and accuracy.",
       "key_skills": [
@@ -11577,29 +11554,6 @@
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-marketing-ope-asana-68022646": {
-      "summary": "Owns systems, data flows, and operational foundations connecting product engagement to audience activation, lifecycle enablement, lead management, and business insight for Asana's growth funnel.",
-      "key_skills": [
-        "marketing",
-        "operations",
-        "growth",
-        "product",
-        "data",
-        "analytics",
-        "revenue",
-        "lead"
-      ],
-      "core_skills": [
-        "systems",
-        "data_flows",
-        "operational_foundation",
-        "product_engagement"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
@@ -11625,6 +11579,168 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "senior-advisor--tale-careaccess-54409756": {
+      "summary": "Senior Advisor, Talent Acquisition leads full-cycle recruitment for critical clinical research roles, designs sourcing strategies, and collaborates with stakeholders to ensure talent pipeline readiness.",
+      "key_skills": [
+        "talent acquisition",
+        "recruitment",
+        "clinical research",
+        "sourcing",
+        "data analytics",
+        "hr strategy",
+        "candidate experience",
+        "compliance"
+      ],
+      "core_skills": [
+        "sourcing",
+        "data analytics",
+        "recruitment",
+        "talent strategy"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-robinhood-54409756": {
+      "summary": "Senior Software Engineer designs, develops, and maintains complex backend services, APIs, and data models that power core product functionality while ensuring system reliability, performance, and scalability.",
+      "key_skills": [
+        "java",
+        "kotlin",
+        "golang",
+        "python",
+        "scala",
+        "postgreSQL",
+        "mysql",
+        "redis",
+        "dynamodb"
+      ],
+      "core_skills": [
+        "distributed systems",
+        "restful apis",
+        "backend services",
+        "observability tools"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "data-scientist-asana-54409756": {
+      "summary": "Architects and leads technical execution for marketing data science projects including media mix modeling, user lifetime value, causal inferences, multi-touch attribution, and spend optimization engines while providing technical leadership and mentorship.",
+      "key_skills": [
+        "data science",
+        "machine learning",
+        "statistical modeling",
+        "data engineering",
+        "python",
+        "sql",
+        "big data",
+        "cloud computing"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "modeling quality",
+        "code rigor",
+        "data pipeline architecture"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "digital-designer-asana-54409756": {
+      "summary": "Senior Digital Designer leverages Asana's digital ecosystem to shape brand experiences across digital channels while collaborating with web development and growth teams to drive user engagement and conversions.",
+      "key_skills": [
+        "systems-thinking",
+        "digital design",
+        "branding",
+        "user experience",
+        "conversion optimization",
+        "visual design",
+        "web development",
+        "agile"
+      ],
+      "core_skills": [
+        "systems-thinking",
+        "digital design",
+        "branding",
+        "user experience"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "finance-operations---asana-54409756": {
+      "summary": "Manages finance operations and COE for Quote-to-Cash and Revenue Accounting workstreams, ensuring compliance with ASC 606 and optimizing deal lifecycles across finance, product, and GTM teams.",
+      "key_skills": [
+        "finance",
+        "operations",
+        "coe",
+        "manager",
+        "revenue",
+        "accounting",
+        "q2c",
+        "agile"
+      ],
+      "core_skills": [
+        "finance",
+        "operations",
+        "revenue",
+        "accounting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-marketing-ope-asana-54409756": {
+      "summary": "Owns systems, data flows, and operational foundations connecting product engagement to audience activation, lifecycle enablement, lead management, and business insight for Asana's growth funnel.",
+      "key_skills": [
+        "marketing operations",
+        "growth ops",
+        "product-led growth",
+        "data flows",
+        "systems infrastructure",
+        "pql workflows",
+        "lifecycle enablement",
+        "lead management"
+      ],
+      "core_skills": [
+        "systems infrastructure",
+        "pql workflows",
+        "data flows",
+        "marketing operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-backend-softwa-headway-54409756": {
+      "summary": "Builds and maintains the payment and claims infrastructure for mental healthcare providers to ensure seamless financial transactions and compliance across insurance networks.",
+      "key_skills": [
+        "typescript",
+        "python",
+        "react",
+        "remix",
+        "nextjs",
+        "fastapi",
+        "sqlalchemy",
+        "postgres"
+      ],
+      "core_skills": [
+        "distributed systems",
+        "observability",
+        "reconciliation",
+        "idempotency"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
