@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-05T10:19:21.535137+00:00",
-    "total_jobs": 649,
-    "enriched": 527
+    "built_at": "2026-06-06T10:18:20.740084+00:00",
+    "total_jobs": 654,
+    "enriched": 528
   },
   "jobs": {
     "ai-engineer-capstone-invest-28696169": {
@@ -11627,98 +11627,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "data-scientist-asana-54409756": {
-      "summary": "Architects and leads technical execution for marketing data science projects including media mix modeling, user lifetime value, causal inferences, multi-touch attribution, and spend optimization engines while providing technical leadership and mentorship.",
-      "key_skills": [
-        "data science",
-        "machine learning",
-        "statistical modeling",
-        "data engineering",
-        "python",
-        "sql",
-        "big data",
-        "cloud computing"
-      ],
-      "core_skills": [
-        "technical leadership",
-        "modeling quality",
-        "code rigor",
-        "data pipeline architecture"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "digital-designer-asana-54409756": {
-      "summary": "Senior Digital Designer leverages Asana's digital ecosystem to shape brand experiences across digital channels while collaborating with web development and growth teams to drive user engagement and conversions.",
-      "key_skills": [
-        "systems-thinking",
-        "digital design",
-        "branding",
-        "user experience",
-        "conversion optimization",
-        "visual design",
-        "web development",
-        "agile"
-      ],
-      "core_skills": [
-        "systems-thinking",
-        "digital design",
-        "branding",
-        "user experience"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "finance-operations---asana-54409756": {
-      "summary": "Manages finance operations and COE for Quote-to-Cash and Revenue Accounting workstreams, ensuring compliance with ASC 606 and optimizing deal lifecycles across finance, product, and GTM teams.",
-      "key_skills": [
-        "finance",
-        "operations",
-        "coe",
-        "manager",
-        "revenue",
-        "accounting",
-        "q2c",
-        "agile"
-      ],
-      "core_skills": [
-        "finance",
-        "operations",
-        "revenue",
-        "accounting"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "senior-marketing-ope-asana-54409756": {
-      "summary": "Owns systems, data flows, and operational foundations connecting product engagement to audience activation, lifecycle enablement, lead management, and business insight for Asana's growth funnel.",
-      "key_skills": [
-        "marketing operations",
-        "growth ops",
-        "product-led growth",
-        "data flows",
-        "systems infrastructure",
-        "pql workflows",
-        "lifecycle enablement",
-        "lead management"
-      ],
-      "core_skills": [
-        "systems infrastructure",
-        "pql workflows",
-        "data flows",
-        "marketing operations"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "staff-backend-softwa-headway-54409756": {
       "summary": "Builds and maintains the payment and claims infrastructure for mental healthcare providers to ensure seamless financial transactions and compliance across insurance networks.",
       "key_skills": [
@@ -11741,6 +11649,121 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "data-scientist-asana-40803834": {
+      "summary": "Architects and leads technical execution for marketing data science projects including media mix modeling, user lifetime value, causal inferences, multi-touch attribution, and spend optimization engines while providing technical leadership and mentorship.",
+      "key_skills": [
+        "data science",
+        "machine learning",
+        "statistical modeling",
+        "data engineering",
+        "python",
+        "sql",
+        "big data",
+        "cloud computing"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "modeling quality",
+        "code rigor",
+        "data pipeline architecture"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "digital-designer-asana-40803834": {
+      "summary": "Senior Digital Designer leverages Asana's digital ecosystem to shape brand experiences across digital channels while collaborating with web development and growth teams to drive user engagement and conversions.",
+      "key_skills": [
+        "systems-thinking",
+        "digital design",
+        "branding",
+        "user experience",
+        "conversion optimization",
+        "visual design",
+        "web development",
+        "agile"
+      ],
+      "core_skills": [
+        "systems-thinking",
+        "digital design",
+        "branding",
+        "user experience"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "finance-operations---asana-40803834": {
+      "summary": "Manages finance operations and COE for Quote-to-Cash and Revenue Accounting workstreams, ensuring compliance with ASC 606 and optimizing deal lifecycles across finance, product, and GTM teams.",
+      "key_skills": [
+        "finance",
+        "operations",
+        "coe",
+        "manager",
+        "revenue",
+        "accounting",
+        "q2c",
+        "agile"
+      ],
+      "core_skills": [
+        "finance",
+        "operations",
+        "revenue",
+        "accounting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-marketing-ope-asana-40803834": {
+      "summary": "Owns systems, data flows, and operational foundations connecting product engagement to audience activation, lifecycle enablement, lead management, and business insight for Asana's growth funnel.",
+      "key_skills": [
+        "marketing operations",
+        "growth ops",
+        "product-led growth",
+        "data flows",
+        "systems infrastructure",
+        "pql workflows",
+        "lifecycle enablement",
+        "lead management"
+      ],
+      "core_skills": [
+        "systems infrastructure",
+        "pql workflows",
+        "data flows",
+        "marketing operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "manager--real-time-c-point72-40803834": {
+      "summary": "Defines and leads global real-time communications strategy, builds trader voice platforms, and manages cross-functional teams for enterprise telephony and collaboration solutions.",
+      "key_skills": [
+        "cloud",
+        "ai",
+        "agile",
+        "real-time-communications",
+        "telephony",
+        "voice",
+        "trading-floor",
+        "collaboration"
+      ],
+      "core_skills": [
+        "cloud-telephony",
+        "real-time-communications",
+        "trading-floor",
+        "voice"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     }
   }
 }
