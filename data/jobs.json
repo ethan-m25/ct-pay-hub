@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 1086,
-    "active": 774,
-    "new_today": 27,
+    "count": 1087,
+    "active": 775,
+    "new_today": 19,
     "links_newly_archived": 0,
-    "updated": "2026-07-07T19:44:04Z",
+    "updated": "2026-07-07T20:56:59Z",
     "state": "Connecticut",
     "law": "⚖️ CT PA 21-30 (2021)",
     "currency": "USD",
@@ -35758,7 +35758,7 @@
       "_exempt": false,
       "_federal": false,
       "category": "Other",
-      "work_mode": "unknown",
+      "work_mode": "remote",
       "salary_type": "annual",
       "id": "cardiovascular-disea-merck-sharp---d-53444624",
       "status": "active",
@@ -35900,6 +35900,32 @@
       "last_seen": "2026-07-07",
       "location_display": "Remote (CT)",
       "location_city": ""
+    },
+    {
+      "role": "Manager, Product Development - Business Insurance Property",
+      "company": "Travelers",
+      "min": 101300,
+      "max": 167000,
+      "location": "Hartford, CT",
+      "source_url": "https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Manager--Product-Development---Business-Insurance-Property_R-51390",
+      "posted": "2026-07-07",
+      "currency": "USD",
+      "region": "CT",
+      "_width": 65700,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Product",
+      "work_mode": "hybrid",
+      "salary_type": "annual",
+      "id": "manager--product-dev-travelers-57819767",
+      "status": "active",
+      "date_added": "2026-07-07",
+      "scraped": "2026-07-07",
+      "last_seen": "2026-07-07",
+      "location_display": "Hartford, CT",
+      "location_city": "Hartford"
     }
   ]
 }
