@@ -1,16 +1,14 @@
 {
   "meta": {
-    "count": 2057,
-    "active": 836,
-    "new_today": 15,
-    "links_newly_archived": 1,
-    "updated": "2026-09-27T14:58:59Z",
+    "count": 2056,
+    "active": 814,
+    "new_today": 14,
+    "links_newly_archived": 0,
+    "updated": "2026-09-28T04:54:58Z",
     "state": "Connecticut",
     "law": "⚖️ CT PA 21-30 (2021)",
     "currency": "USD",
-    "region": "CT",
-    "archived": 1221,
-    "links_validated": 0
+    "region": "CT"
   },
   "jobs": [
     {
@@ -62866,6 +62864,33 @@
       "date_added": "2026-09-26",
       "scraped": "2026-09-26",
       "last_seen": "2026-09-26",
+      "location_display": "Remote (CT)",
+      "location_city": ""
+    },
+    {
+      "role": "Marketing Operations Coordinator",
+      "company": "Astronomer",
+      "min": 75000,
+      "max": 95000,
+      "location": "Remote (Connecticut)",
+      "source_url": "https://jobs.ashbyhq.com/astronomer/6f2d45a5-d8c5-4408-8cd7-d504b061e431",
+      "posted": "2026-09-28",
+      "source_platform": "ashby",
+      "currency": "USD",
+      "region": "CT",
+      "_width": 20000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Marketing",
+      "work_mode": "remote",
+      "salary_type": "annual",
+      "id": "marketing-operations-astronomer-71298049",
+      "status": "active",
+      "date_added": "2026-09-28",
+      "scraped": "2026-09-28",
+      "last_seen": "2026-09-28",
       "location_display": "Remote (CT)",
       "location_city": ""
     }
