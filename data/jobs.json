@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 2581,
-    "active": 1119,
-    "new_today": 15,
-    "links_newly_archived": 0,
-    "updated": "2026-11-08T06:25:36Z",
+    "count": 2582,
+    "active": 1101,
+    "new_today": 16,
+    "links_newly_archived": 1,
+    "updated": "2026-11-09T06:23:02Z",
     "state": "Connecticut",
     "law": "⚖️ CT PA 21-30 (2021)",
     "currency": "USD",
@@ -15789,7 +15789,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "industrial-water-pro-woodardcurran-67924519",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-11-01",
@@ -15802,7 +15802,8 @@
       "category_provisional": false,
       "category_title": "Product & Project",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-11-09"
     },
     {
       "role": "Industrial Water Technical Manager",
@@ -18817,7 +18818,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "strategy-lead-oneapp-67924520",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-11-01",
@@ -18830,7 +18831,9 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Treasury Operations Lead",
@@ -36961,12 +36964,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "brand-visual-designe-dualentry-77365502",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-10",
       "scraped": "2026-07-10",
       "last_seen": "2026-11-01",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Clinical Trial Manager",
@@ -46088,12 +46093,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-linux-infrast-voleon-45622067",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
       "last_seen": "2026-11-01",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Machine Learning Engineer",
@@ -56827,12 +56834,14 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-manager--prog-protegrity-10514018",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
       "last_seen": "2026-10-25",
       "location_display": "Statewide (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Software Engineer, Ontology & Reasoning Systems (819)",
@@ -58296,12 +58305,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-software-engi-magnals-82301793",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
       "last_seen": "2026-10-25",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Software Engineer, Records",
@@ -62347,12 +62358,14 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-digital-marke-tanium-25513579",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-24",
       "scraped": "2026-09-24",
       "last_seen": "2026-09-24",
       "location_display": "Hartford, CT",
-      "location_city": "Hartford"
+      "location_city": "Hartford",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Project Manager, Professional Services",
@@ -63297,12 +63310,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "senior-product-manag-coursera-31678922",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
       "last_seen": "2026-10-01",
       "location_display": "Hartford, CT",
-      "location_city": "Hartford"
+      "location_city": "Hartford",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Market Operations Analyst",
@@ -64502,12 +64517,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "senior-employment-co-aloyoga-29548157",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
       "last_seen": "2026-10-03",
       "location_display": "Hartford, CT",
-      "location_city": "Hartford"
+      "location_city": "Hartford",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Sr. Director of Data Analytics, Data Science & AI",
@@ -67875,12 +67892,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "payroll-support-mana-check-technolog-29548158",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
       "last_seen": "2026-10-03",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Payroll Support Specialist",
@@ -68103,12 +68122,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "strategic-finance-as-check-technolog-29548158",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
       "last_seen": "2026-10-03",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Tax Filing & Payments Associate",
@@ -68269,12 +68290,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "psychologist-point72-64609915",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-06",
       "scraped": "2026-10-06",
       "last_seen": "2026-10-06",
       "location_display": "Stamford, CT",
-      "location_city": "Stamford"
+      "location_city": "Stamford",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Surveillance Associate",
@@ -68703,12 +68726,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "full-stack-engineer--clasp-group-50695776",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-07",
       "scraped": "2026-10-07",
       "last_seen": "2026-10-07",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Tech Lead, Foundations",
@@ -69439,12 +69464,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "senior-engineering-m-discord-10103136",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-10",
       "scraped": "2026-10-10",
       "last_seen": "2026-10-10",
       "location_display": "Hartford, CT",
-      "location_city": "Hartford"
+      "location_city": "Hartford",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Field Marketing Manager",
@@ -69893,12 +69920,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "brand-designer-dualentry-91840595",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-13",
       "scraped": "2026-10-13",
       "last_seen": "2026-10-13",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Associate Software Engineer, Frontend",
@@ -70755,12 +70784,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-manager--clin-careaccess-15798677",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-17",
       "scraped": "2026-10-17",
       "last_seen": "2026-10-17",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Territory Account Executive (NYC)",
@@ -74709,12 +74740,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-backend-engin-openly-04864226",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-11-02",
       "scraped": "2026-11-02",
       "last_seen": "2026-11-02",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Analyst - Insurance Product & Countrywide Advanced Analytics (Remote, US)",
@@ -74844,12 +74877,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "accounting-specialis-cogentanalytics-91165920",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-11-03",
       "scraped": "2026-11-03",
       "last_seen": "2026-11-03",
       "location_display": "Hartford, CT",
-      "location_city": "Hartford"
+      "location_city": "Hartford",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior HR Analytics Consultant",
@@ -76548,12 +76583,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "data-implementation--valon-46507618",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-11-06",
       "scraped": "2026-11-06",
       "last_seen": "2026-11-06",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Security Engineer",
