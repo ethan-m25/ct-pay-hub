@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 2685,
-    "active": 1170,
-    "new_today": 18,
+    "count": 2686,
+    "active": 1139,
+    "new_today": 19,
     "links_newly_archived": 0,
-    "updated": "2026-11-22T06:17:23Z",
+    "updated": "2026-11-23T06:18:30Z",
     "state": "Connecticut",
     "law": "⚖️ CT PA 21-30 (2021)",
     "currency": "USD",
@@ -3596,7 +3596,7 @@
       "_federal": false,
       "category": "Engineering",
       "id": "senior-software-engi-vanta-72916561",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "work_mode": "remote",
       "salary_type": "annual",
@@ -3611,7 +3611,9 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Software Engineer, Developer Experience",
@@ -45238,7 +45240,7 @@
       "status": "active",
       "date_added": "2026-07-31",
       "scraped": "2026-07-31",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -45321,7 +45323,7 @@
       "status": "active",
       "date_added": "2026-07-31",
       "scraped": "2026-07-31",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Bridgeport, CT",
       "location_city": "Bridgeport"
     },
@@ -45347,7 +45349,7 @@
       "status": "active",
       "date_added": "2026-07-31",
       "scraped": "2026-07-31",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -45456,7 +45458,7 @@
       "status": "active",
       "date_added": "2026-08-01",
       "scraped": "2026-08-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -45483,7 +45485,7 @@
       "status": "active",
       "date_added": "2026-08-01",
       "scraped": "2026-08-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -45752,7 +45754,7 @@
       "status": "active",
       "date_added": "2026-08-01",
       "scraped": "2026-08-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -45778,7 +45780,7 @@
       "status": "active",
       "date_added": "2026-08-01",
       "scraped": "2026-08-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Waterbury, CT",
       "location_city": "Waterbury"
     },
@@ -45804,7 +45806,7 @@
       "status": "active",
       "date_added": "2026-08-01",
       "scraped": "2026-08-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -46003,7 +46005,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46088,7 +46090,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46144,7 +46146,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46200,7 +46202,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46227,7 +46229,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46283,7 +46285,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46339,7 +46341,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46366,7 +46368,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46393,7 +46395,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46420,7 +46422,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46447,7 +46449,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46474,7 +46476,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46612,7 +46614,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "director--client-str-wpromote-33862491",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-10-25",
@@ -46697,7 +46699,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "director--revenue-sy-wpromote-33862491",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-10-25",
@@ -46785,7 +46787,7 @@
       "status": "active",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46812,7 +46814,7 @@
       "status": "active",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46926,7 +46928,7 @@
       "status": "active",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -46953,7 +46955,7 @@
       "status": "active",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -47038,7 +47040,7 @@
       "status": "active",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -47094,7 +47096,7 @@
       "status": "active",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -47121,7 +47123,7 @@
       "status": "active",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -47311,7 +47313,7 @@
       "status": "active",
       "date_added": "2026-08-04",
       "scraped": "2026-08-04",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -47393,7 +47395,7 @@
       "status": "active",
       "date_added": "2026-08-05",
       "scraped": "2026-08-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -47420,7 +47422,7 @@
       "status": "active",
       "date_added": "2026-08-05",
       "scraped": "2026-08-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -47724,7 +47726,7 @@
       "status": "active",
       "date_added": "2026-08-05",
       "scraped": "2026-08-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -47750,7 +47752,7 @@
       "status": "active",
       "date_added": "2026-08-05",
       "scraped": "2026-08-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -47802,7 +47804,7 @@
       "status": "active",
       "date_added": "2026-08-05",
       "scraped": "2026-08-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -47828,7 +47830,7 @@
       "status": "active",
       "date_added": "2026-08-05",
       "scraped": "2026-08-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -47855,7 +47857,7 @@
       "status": "active",
       "date_added": "2026-08-05",
       "scraped": "2026-08-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -47882,7 +47884,7 @@
       "status": "active",
       "date_added": "2026-08-05",
       "scraped": "2026-08-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -48220,7 +48222,7 @@
       "status": "active",
       "date_added": "2026-08-06",
       "scraped": "2026-08-06",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -48275,7 +48277,7 @@
       "status": "active",
       "date_added": "2026-08-06",
       "scraped": "2026-08-06",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -48301,7 +48303,7 @@
       "status": "active",
       "date_added": "2026-08-06",
       "scraped": "2026-08-06",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -48353,7 +48355,7 @@
       "status": "active",
       "date_added": "2026-08-06",
       "scraped": "2026-08-06",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -48405,7 +48407,7 @@
       "status": "active",
       "date_added": "2026-08-06",
       "scraped": "2026-08-06",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Stamford, CT",
       "location_city": "Stamford"
     },
@@ -48431,7 +48433,7 @@
       "status": "active",
       "date_added": "2026-08-06",
       "scraped": "2026-08-06",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -48457,7 +48459,7 @@
       "status": "active",
       "date_added": "2026-08-06",
       "scraped": "2026-08-06",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -48484,7 +48486,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -48700,7 +48702,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -48726,7 +48728,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -48752,7 +48754,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -48778,7 +48780,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Danbury, CT",
       "location_city": "Danbury"
     },
@@ -48830,7 +48832,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -48856,7 +48858,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "New Haven, CT",
       "location_city": "New Haven"
     },
@@ -48882,7 +48884,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "New Haven, CT",
       "location_city": "New Haven"
     },
@@ -48908,7 +48910,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -49184,7 +49186,7 @@
       "status": "active",
       "date_added": "2026-08-08",
       "scraped": "2026-08-08",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -49236,7 +49238,7 @@
       "status": "active",
       "date_added": "2026-08-08",
       "scraped": "2026-08-08",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -49262,7 +49264,7 @@
       "status": "active",
       "date_added": "2026-08-08",
       "scraped": "2026-08-08",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -49288,7 +49290,7 @@
       "status": "active",
       "date_added": "2026-08-08",
       "scraped": "2026-08-08",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -49508,7 +49510,7 @@
       "status": "active",
       "date_added": "2026-08-11",
       "scraped": "2026-08-11",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -49672,7 +49674,7 @@
       "status": "active",
       "date_added": "2026-08-12",
       "scraped": "2026-08-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -49755,7 +49757,7 @@
       "status": "active",
       "date_added": "2026-08-12",
       "scraped": "2026-08-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -50027,7 +50029,7 @@
       "status": "active",
       "date_added": "2026-08-12",
       "scraped": "2026-08-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -50054,7 +50056,7 @@
       "status": "active",
       "date_added": "2026-08-12",
       "scraped": "2026-08-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -50081,7 +50083,7 @@
       "status": "active",
       "date_added": "2026-08-12",
       "scraped": "2026-08-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -50464,7 +50466,7 @@
       "status": "active",
       "date_added": "2026-08-13",
       "scraped": "2026-08-13",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -50490,7 +50492,7 @@
       "status": "active",
       "date_added": "2026-08-13",
       "scraped": "2026-08-13",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -50685,7 +50687,7 @@
       "status": "active",
       "date_added": "2026-08-15",
       "scraped": "2026-08-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -50711,7 +50713,7 @@
       "status": "active",
       "date_added": "2026-08-15",
       "scraped": "2026-08-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -50737,7 +50739,7 @@
       "status": "active",
       "date_added": "2026-08-15",
       "scraped": "2026-08-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -50763,7 +50765,7 @@
       "status": "active",
       "date_added": "2026-08-15",
       "scraped": "2026-08-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -50789,7 +50791,7 @@
       "status": "active",
       "date_added": "2026-08-15",
       "scraped": "2026-08-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -50845,7 +50847,7 @@
       "status": "active",
       "date_added": "2026-08-15",
       "scraped": "2026-08-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -51477,7 +51479,7 @@
       "status": "active",
       "date_added": "2026-08-18",
       "scraped": "2026-08-18",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -51503,7 +51505,7 @@
       "status": "active",
       "date_added": "2026-08-18",
       "scraped": "2026-08-18",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -51529,7 +51531,7 @@
       "status": "active",
       "date_added": "2026-08-18",
       "scraped": "2026-08-18",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -51555,7 +51557,7 @@
       "status": "active",
       "date_added": "2026-08-18",
       "scraped": "2026-08-18",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -51581,7 +51583,7 @@
       "status": "active",
       "date_added": "2026-08-18",
       "scraped": "2026-08-18",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -52046,7 +52048,7 @@
       "status": "active",
       "date_added": "2026-08-19",
       "scraped": "2026-08-19",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -52101,7 +52103,7 @@
       "status": "active",
       "date_added": "2026-08-19",
       "scraped": "2026-08-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -52127,7 +52129,7 @@
       "status": "active",
       "date_added": "2026-08-19",
       "scraped": "2026-08-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -52153,7 +52155,7 @@
       "status": "active",
       "date_added": "2026-08-19",
       "scraped": "2026-08-19",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -52293,7 +52295,7 @@
       "status": "active",
       "date_added": "2026-08-20",
       "scraped": "2026-08-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -52319,7 +52321,7 @@
       "status": "active",
       "date_added": "2026-08-20",
       "scraped": "2026-08-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -52345,7 +52347,7 @@
       "status": "active",
       "date_added": "2026-08-20",
       "scraped": "2026-08-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -52371,7 +52373,7 @@
       "status": "active",
       "date_added": "2026-08-20",
       "scraped": "2026-08-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -52397,7 +52399,7 @@
       "status": "active",
       "date_added": "2026-08-20",
       "scraped": "2026-08-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -52423,7 +52425,7 @@
       "status": "active",
       "date_added": "2026-08-20",
       "scraped": "2026-08-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -52449,7 +52451,7 @@
       "status": "active",
       "date_added": "2026-08-20",
       "scraped": "2026-08-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -52476,7 +52478,7 @@
       "status": "active",
       "date_added": "2026-08-20",
       "scraped": "2026-08-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -52945,7 +52947,7 @@
       "status": "active",
       "date_added": "2026-08-21",
       "scraped": "2026-08-21",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -53139,7 +53141,7 @@
       "status": "active",
       "date_added": "2026-08-21",
       "scraped": "2026-08-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -53165,7 +53167,7 @@
       "status": "active",
       "date_added": "2026-08-21",
       "scraped": "2026-08-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -53191,7 +53193,7 @@
       "status": "active",
       "date_added": "2026-08-21",
       "scraped": "2026-08-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -53217,7 +53219,7 @@
       "status": "active",
       "date_added": "2026-08-21",
       "scraped": "2026-08-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -53243,7 +53245,7 @@
       "status": "active",
       "date_added": "2026-08-21",
       "scraped": "2026-08-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -53269,7 +53271,7 @@
       "status": "active",
       "date_added": "2026-08-21",
       "scraped": "2026-08-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -53295,7 +53297,7 @@
       "status": "active",
       "date_added": "2026-08-21",
       "scraped": "2026-08-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -53770,7 +53772,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -53797,7 +53799,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Middletown, CT",
       "location_city": "Middletown"
     },
@@ -53824,7 +53826,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -53879,7 +53881,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -53905,7 +53907,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -53931,7 +53933,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -53957,7 +53959,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -54009,7 +54011,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -54094,7 +54096,7 @@
       "status": "active",
       "date_added": "2026-08-25",
       "scraped": "2026-08-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Middletown, CT",
       "location_city": "Middletown"
     },
@@ -54120,7 +54122,7 @@
       "status": "active",
       "date_added": "2026-08-25",
       "scraped": "2026-08-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -54146,7 +54148,7 @@
       "status": "active",
       "date_added": "2026-08-25",
       "scraped": "2026-08-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -54224,7 +54226,7 @@
       "status": "active",
       "date_added": "2026-08-25",
       "scraped": "2026-08-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -54250,7 +54252,7 @@
       "status": "active",
       "date_added": "2026-08-25",
       "scraped": "2026-08-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -54306,7 +54308,7 @@
       "status": "active",
       "date_added": "2026-08-25",
       "scraped": "2026-08-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -54555,7 +54557,7 @@
       "status": "active",
       "date_added": "2026-08-26",
       "scraped": "2026-08-26",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -54581,7 +54583,7 @@
       "status": "active",
       "date_added": "2026-08-26",
       "scraped": "2026-08-26",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -54607,7 +54609,7 @@
       "status": "active",
       "date_added": "2026-08-26",
       "scraped": "2026-08-26",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -54633,7 +54635,7 @@
       "status": "active",
       "date_added": "2026-08-26",
       "scraped": "2026-08-26",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -54659,7 +54661,7 @@
       "status": "active",
       "date_added": "2026-08-26",
       "scraped": "2026-08-26",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -54685,7 +54687,7 @@
       "status": "active",
       "date_added": "2026-08-26",
       "scraped": "2026-08-26",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -54711,7 +54713,7 @@
       "status": "active",
       "date_added": "2026-08-26",
       "scraped": "2026-08-26",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -54992,7 +54994,7 @@
       "status": "active",
       "date_added": "2026-08-27",
       "scraped": "2026-08-27",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55018,7 +55020,7 @@
       "status": "active",
       "date_added": "2026-08-27",
       "scraped": "2026-08-27",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55044,7 +55046,7 @@
       "status": "active",
       "date_added": "2026-08-27",
       "scraped": "2026-08-27",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55070,7 +55072,7 @@
       "status": "active",
       "date_added": "2026-08-27",
       "scraped": "2026-08-27",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55096,7 +55098,7 @@
       "status": "active",
       "date_added": "2026-08-27",
       "scraped": "2026-08-27",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55152,7 +55154,7 @@
       "status": "active",
       "date_added": "2026-08-28",
       "scraped": "2026-08-28",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -55342,7 +55344,7 @@
       "status": "active",
       "date_added": "2026-08-28",
       "scraped": "2026-08-28",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55368,7 +55370,7 @@
       "status": "active",
       "date_added": "2026-08-28",
       "scraped": "2026-08-28",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55420,7 +55422,7 @@
       "status": "active",
       "date_added": "2026-08-28",
       "scraped": "2026-08-28",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55723,7 +55725,7 @@
       "status": "active",
       "date_added": "2026-08-29",
       "scraped": "2026-08-29",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55749,7 +55751,7 @@
       "status": "active",
       "date_added": "2026-08-29",
       "scraped": "2026-08-29",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55775,7 +55777,7 @@
       "status": "active",
       "date_added": "2026-08-29",
       "scraped": "2026-08-29",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55801,7 +55803,7 @@
       "status": "active",
       "date_added": "2026-08-29",
       "scraped": "2026-08-29",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -55827,7 +55829,7 @@
       "status": "active",
       "date_added": "2026-08-29",
       "scraped": "2026-08-29",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -55853,7 +55855,7 @@
       "status": "active",
       "date_added": "2026-08-29",
       "scraped": "2026-08-29",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -55879,7 +55881,7 @@
       "status": "active",
       "date_added": "2026-08-29",
       "scraped": "2026-08-29",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -55905,7 +55907,7 @@
       "status": "active",
       "date_added": "2026-08-29",
       "scraped": "2026-08-29",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -55931,7 +55933,7 @@
       "status": "active",
       "date_added": "2026-08-29",
       "scraped": "2026-08-29",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -56100,7 +56102,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-people-partne-collibra-36595807",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-01",
       "scraped": "2026-09-01",
       "last_seen": "2026-10-25",
@@ -56156,7 +56158,7 @@
       "status": "active",
       "date_added": "2026-09-01",
       "scraped": "2026-09-01",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -56182,7 +56184,7 @@
       "status": "active",
       "date_added": "2026-09-01",
       "scraped": "2026-09-01",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -56208,7 +56210,7 @@
       "status": "active",
       "date_added": "2026-09-01",
       "scraped": "2026-09-01",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -56234,7 +56236,7 @@
       "status": "active",
       "date_added": "2026-09-01",
       "scraped": "2026-09-01",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Greenwich, CT",
       "location_city": "Greenwich"
     },
@@ -56260,7 +56262,7 @@
       "status": "active",
       "date_added": "2026-09-01",
       "scraped": "2026-09-01",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -56286,7 +56288,7 @@
       "status": "active",
       "date_added": "2026-09-01",
       "scraped": "2026-09-01",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -56396,7 +56398,7 @@
       "status": "active",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -56422,7 +56424,7 @@
       "status": "active",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -56448,7 +56450,7 @@
       "status": "active",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -56474,7 +56476,7 @@
       "status": "active",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "New Haven, CT",
       "location_city": "New Haven"
     },
@@ -56584,7 +56586,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -56666,7 +56668,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -56692,7 +56694,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -56718,7 +56720,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -56744,7 +56746,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "New Haven, CT",
       "location_city": "New Haven"
     },
@@ -57029,7 +57031,7 @@
       "status": "active",
       "date_added": "2026-09-04",
       "scraped": "2026-09-04",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -57055,7 +57057,7 @@
       "status": "active",
       "date_added": "2026-09-04",
       "scraped": "2026-09-04",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -57081,7 +57083,7 @@
       "status": "active",
       "date_added": "2026-09-04",
       "scraped": "2026-09-04",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -57107,7 +57109,7 @@
       "status": "active",
       "date_added": "2026-09-04",
       "scraped": "2026-09-04",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -57463,7 +57465,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "social-media-lead-asana-82301792",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
       "last_seen": "2026-11-01",
@@ -57493,7 +57495,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -57520,7 +57522,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -57547,7 +57549,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -58132,7 +58134,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -58217,7 +58219,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -58388,7 +58390,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -58414,7 +58416,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -58466,7 +58468,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -58492,7 +58494,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -58519,7 +58521,7 @@
       "status": "active",
       "date_added": "2026-09-07",
       "scraped": "2026-09-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -58879,7 +58881,7 @@
       "status": "active",
       "date_added": "2026-09-08",
       "scraped": "2026-09-08",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -58957,7 +58959,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "senior-marketing-ope-brex-28247705",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-09",
       "scraped": "2026-09-09",
       "last_seen": "2026-10-25",
@@ -58987,7 +58989,7 @@
       "status": "active",
       "date_added": "2026-09-09",
       "scraped": "2026-09-09",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59158,7 +59160,7 @@
       "status": "active",
       "date_added": "2026-09-09",
       "scraped": "2026-09-09",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59184,7 +59186,7 @@
       "status": "active",
       "date_added": "2026-09-09",
       "scraped": "2026-09-09",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59210,7 +59212,7 @@
       "status": "active",
       "date_added": "2026-09-09",
       "scraped": "2026-09-09",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -59291,7 +59293,7 @@
       "status": "active",
       "date_added": "2026-09-10",
       "scraped": "2026-09-10",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59454,7 +59456,7 @@
       "status": "active",
       "date_added": "2026-09-10",
       "scraped": "2026-09-10",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59480,7 +59482,7 @@
       "status": "active",
       "date_added": "2026-09-10",
       "scraped": "2026-09-10",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59506,7 +59508,7 @@
       "status": "active",
       "date_added": "2026-09-10",
       "scraped": "2026-09-10",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59617,7 +59619,7 @@
       "status": "active",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59643,7 +59645,7 @@
       "status": "active",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -59669,7 +59671,7 @@
       "status": "active",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -59695,7 +59697,7 @@
       "status": "active",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -59721,7 +59723,7 @@
       "status": "active",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -59747,7 +59749,7 @@
       "status": "active",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -59773,7 +59775,7 @@
       "status": "active",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -59800,7 +59802,7 @@
       "status": "active",
       "date_added": "2026-09-12",
       "scraped": "2026-09-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59827,7 +59829,7 @@
       "status": "active",
       "date_added": "2026-09-12",
       "scraped": "2026-09-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59853,7 +59855,7 @@
       "status": "active",
       "date_added": "2026-09-12",
       "scraped": "2026-09-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59879,7 +59881,7 @@
       "status": "active",
       "date_added": "2026-09-12",
       "scraped": "2026-09-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -59905,7 +59907,7 @@
       "status": "active",
       "date_added": "2026-09-12",
       "scraped": "2026-09-12",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -60156,7 +60158,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -60183,7 +60185,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -60210,7 +60212,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -60237,7 +60239,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -60521,7 +60523,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -60547,7 +60549,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -60573,7 +60575,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-09-15",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -60687,7 +60689,7 @@
       "status": "active",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -60711,7 +60713,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff-product-securi-affirm-33145077",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
       "last_seen": "2026-09-16",
@@ -60767,7 +60769,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "regional-sales-direc-grafanalabs-33145077",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
       "last_seen": "2026-09-16",
@@ -60823,12 +60825,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-people-techno-twilio-33145077",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Sr. Marketing Strategy and Analytics Manager",
@@ -60910,7 +60914,7 @@
       "status": "active",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -60936,7 +60940,7 @@
       "status": "active",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -60962,7 +60966,7 @@
       "status": "active",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-09-16",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -60988,7 +60992,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61014,7 +61018,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61040,7 +61044,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61066,7 +61070,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Danbury, CT",
       "location_city": "Danbury"
     },
@@ -61092,7 +61096,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61118,7 +61122,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "New Haven, CT",
       "location_city": "New Haven"
     },
@@ -61144,7 +61148,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61170,7 +61174,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61196,7 +61200,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61222,7 +61226,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61248,7 +61252,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61274,7 +61278,7 @@
       "status": "active",
       "date_added": "2026-09-17",
       "scraped": "2026-09-17",
-      "last_seen": "2026-09-17",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61330,7 +61334,7 @@
       "status": "active",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61356,7 +61360,7 @@
       "status": "active",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61382,7 +61386,7 @@
       "status": "active",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61408,7 +61412,7 @@
       "status": "active",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61434,7 +61438,7 @@
       "status": "active",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61460,7 +61464,7 @@
       "status": "active",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61486,7 +61490,7 @@
       "status": "active",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
-      "last_seen": "2026-09-18",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61510,7 +61514,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "legal-counsel---comm-vercel-95283865",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-19",
       "scraped": "2026-09-19",
       "last_seen": "2026-09-19",
@@ -61537,7 +61541,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "strategic-cloud-part-vercel-95283865",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-19",
       "scraped": "2026-09-19",
       "last_seen": "2026-09-19",
@@ -61624,7 +61628,7 @@
       "status": "active",
       "date_added": "2026-09-19",
       "scraped": "2026-09-19",
-      "last_seen": "2026-09-19",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61650,7 +61654,7 @@
       "status": "active",
       "date_added": "2026-09-21",
       "scraped": "2026-09-21",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61676,7 +61680,7 @@
       "status": "active",
       "date_added": "2026-09-21",
       "scraped": "2026-09-21",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61702,7 +61706,7 @@
       "status": "active",
       "date_added": "2026-09-21",
       "scraped": "2026-09-21",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61728,7 +61732,7 @@
       "status": "active",
       "date_added": "2026-09-21",
       "scraped": "2026-09-21",
-      "last_seen": "2026-09-21",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61781,7 +61785,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "director--product-pa-tanium-54632781",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
       "last_seen": "2026-09-22",
@@ -61810,7 +61814,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61836,7 +61840,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61862,7 +61866,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61888,7 +61892,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61914,7 +61918,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61940,7 +61944,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -61966,7 +61970,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -61992,7 +61996,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62018,7 +62022,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62044,7 +62048,7 @@
       "status": "active",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62068,7 +62072,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "engineering-manager--vercel-39978680",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
       "last_seen": "2026-09-23",
@@ -62095,7 +62099,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "partner-solutions-en-vercel-39978680",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
       "last_seen": "2026-09-23",
@@ -62122,7 +62126,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "strategic-product-pa-vercel-39978680",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
       "last_seen": "2026-09-23",
@@ -62149,7 +62153,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "manager--collections-brex-39978680",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
       "last_seen": "2026-09-23",
@@ -62176,7 +62180,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "procurement-manager-pagerduty-39978680",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
       "last_seen": "2026-09-23",
@@ -62205,7 +62209,7 @@
       "status": "active",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -62231,7 +62235,7 @@
       "status": "active",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -62257,7 +62261,7 @@
       "status": "active",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -62283,7 +62287,7 @@
       "status": "active",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62309,7 +62313,7 @@
       "status": "active",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62335,7 +62339,7 @@
       "status": "active",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62361,7 +62365,7 @@
       "status": "active",
       "date_added": "2026-09-23",
       "scraped": "2026-09-23",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62445,7 +62449,7 @@
       "status": "active",
       "date_added": "2026-09-24",
       "scraped": "2026-09-24",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -62471,7 +62475,7 @@
       "status": "active",
       "date_added": "2026-09-24",
       "scraped": "2026-09-24",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -62497,7 +62501,7 @@
       "status": "active",
       "date_added": "2026-09-24",
       "scraped": "2026-09-24",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62523,7 +62527,7 @@
       "status": "active",
       "date_added": "2026-09-24",
       "scraped": "2026-09-24",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62549,7 +62553,7 @@
       "status": "active",
       "date_added": "2026-09-24",
       "scraped": "2026-09-24",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62605,7 +62609,7 @@
       "status": "active",
       "date_added": "2026-09-24",
       "scraped": "2026-09-24",
-      "last_seen": "2026-09-24",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -62660,7 +62664,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -62686,7 +62690,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -62712,7 +62716,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -62738,7 +62742,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -62764,7 +62768,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62790,7 +62794,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62816,7 +62820,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62842,7 +62846,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-09-25",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -62866,7 +62870,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-software-engi-careaccess-99258523",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-26",
       "scraped": "2026-09-26",
       "last_seen": "2026-09-26",
@@ -62920,7 +62924,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "manager--payment-ope-brex-99258523",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-26",
       "scraped": "2026-09-26",
       "last_seen": "2026-09-26",
@@ -63063,7 +63067,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "associate-partner--c-relaygraduatesc-31678922",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
       "last_seen": "2026-10-01",
@@ -63093,7 +63097,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -63120,7 +63124,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -63173,7 +63177,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "compliance-associate-point72-31678922",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
       "last_seen": "2026-10-01",
@@ -63229,7 +63233,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-digital-nativ-cloudflare-31678922",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
       "last_seen": "2026-10-01",
@@ -63256,7 +63260,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-director--r-d-cloudflare-31678922",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
       "last_seen": "2026-10-01",
@@ -63312,12 +63316,14 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "tax-manager-pagerduty-31678922",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
-      "location_city": "Hartford"
+      "location_city": "Hartford",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Product Manager, Applied AI",
@@ -63371,7 +63377,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -63398,7 +63404,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Middletown, CT",
       "location_city": "Middletown"
     },
@@ -63425,7 +63431,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Statewide (CT)",
       "location_city": ""
     },
@@ -63452,7 +63458,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -63479,7 +63485,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -63506,7 +63512,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Remote (CT)",
       "location_city": ""
     },
@@ -63532,7 +63538,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -63558,7 +63564,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -63584,7 +63590,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -63610,7 +63616,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -63636,7 +63642,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -63662,7 +63668,7 @@
       "status": "active",
       "date_added": "2026-10-01",
       "scraped": "2026-10-01",
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-11-22",
       "location_display": "Hartford, CT",
       "location_city": "Hartford"
     },
@@ -67761,12 +67767,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "high-school-special--the-pinnacle-sc-29548158",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
       "last_seen": "2026-10-03",
       "location_display": "Stamford, CT",
-      "location_city": "Stamford"
+      "location_city": "Stamford",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Enterprise Partner Growth Manager",
@@ -68184,12 +68192,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "tax-filing---payment-check-technolog-29548158",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
       "last_seen": "2026-10-03",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Tax Filing & Payments Specialist",
@@ -70337,12 +70347,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "head-of-infrastructu-valon-54596998",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-14",
       "scraped": "2026-10-14",
       "last_seen": "2026-10-14",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Digital Quality & GxP Manager",
@@ -71272,12 +71284,14 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "udemy--senior-manage-coursera-75587582",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-20",
       "scraped": "2026-10-20",
       "last_seen": "2026-10-20",
       "location_display": "Hartford, CT",
-      "location_city": "Hartford"
+      "location_city": "Hartford",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Business Intelligence Architect",
@@ -72424,12 +72438,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "manager--customer-en-aledade-64435218",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-28",
       "scraped": "2026-10-28",
       "last_seen": "2026-10-28",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Accounting Manager - Construction",
@@ -77377,12 +77393,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "partner-program-mana-twilio-77601504",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-11-11",
       "scraped": "2026-11-11",
       "last_seen": "2026-11-11",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Director, Enterprise Experience Management",
@@ -77934,12 +77952,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "manager--transformat-aledade-49836782",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-11-13",
       "scraped": "2026-11-13",
       "last_seen": "2026-11-13",
       "location_display": "Remote (CT)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Lead Director, Strategic Initiatives & Transformation",
@@ -79329,12 +79349,14 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "capital-markets-spec-affirm-54356085",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-11-20",
       "scraped": "2026-11-20",
       "last_seen": "2026-11-20",
       "location_display": "Hartford, CT",
-      "location_city": "Hartford"
+      "location_city": "Hartford",
+      "archived_date": "2026-11-22",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Director, Solutions Architecture",
