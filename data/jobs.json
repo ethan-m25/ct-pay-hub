@@ -2,9 +2,9 @@
   "meta": {
     "count": 2711,
     "active": 1163,
-    "new_today": 26,
-    "links_newly_archived": 1,
-    "updated": "2026-11-26T06:10:37Z",
+    "new_today": 17,
+    "links_newly_archived": 0,
+    "updated": "2026-11-27T06:17:47Z",
     "state": "Connecticut",
     "law": "⚖️ CT PA 21-30 (2021)",
     "currency": "USD",
@@ -80422,6 +80422,33 @@
       "last_seen": "2026-11-26",
       "location_display": "New Haven, CT",
       "location_city": "New Haven"
+    },
+    {
+      "role": "Embedded Implementation Consultant",
+      "company": "Brex",
+      "min": 105600,
+      "max": 161000,
+      "location": "Hartford, CT",
+      "source_url": "https://www.brex.com/careers/8962367002?gh_jid=8962367002",
+      "posted": "2026-11-25",
+      "source_platform": "greenhouse",
+      "currency": "USD",
+      "region": "CT",
+      "_width": 55400,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Other",
+      "work_mode": "hybrid",
+      "salary_type": "annual",
+      "id": "embedded-implementat-brex-60267562",
+      "status": "active",
+      "date_added": "2026-11-27",
+      "scraped": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "location_display": "Hartford, CT",
+      "location_city": "Hartford"
     }
   ]
 }
